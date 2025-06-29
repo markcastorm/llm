@@ -1,0 +1,261 @@
+from this page  we have a couple of dates  and  margin ratio for hedging transactions  and margin ratio for speculative transactions
+
+
+for this urle weare gonna have the effective date as 
+
+(All relevant units: 
+
+　　According to the "Shanghai Futures Exchange Announcement on the 2025 Market Holiday Arrangements" (Shanghai Futures Exchange Announcement [ 2024 ] No. 204 ), the arrangements for the relevant work during the Dragon Boat Festival are as follows: 
+
+　　1. There will be no night trading on the evening of May 30 , 2025 ( Friday). 
+
+　　Closed from May 31 , 2025 (Saturday) to June 2 , 2025 (Monday ) . 
+
+　　On June 3, 2025 ( Tuesday), all futures and options contracts will be subject to call auction from 08:55 to 09:00 , and night trading will resume that evening. 
+
+　　2. Starting from the closing settlement on May 29, 2025 ( Thursday), the trading margin ratio and price limit range will be adjusted as follows: 
+
+　　The price limit of alumina futures contracts is adjusted to 9% , the margin ratio for hedging transactions is adjusted to 10% , and the margin ratio for speculative transactions is adjusted to 11% ; 
+
+　　The price limit of silver futures contracts is adjusted to 12% , the margin ratio for hedging transactions is adjusted to 13% , and the margin ratio for speculative transactions is adjusted to 14% ; 
+
+　　The price limit range of gold futures contracts was adjusted to 13% , the margin ratio for hedging transactions was adjusted to 14% , and the margin ratio for speculative transactions was adjusted to 15% . 
+
+　　If the circumstances specified in Article 12 of the Shanghai Futures Exchange Risk Control Management Measures occur, adjustments will be made based on the above-mentioned trading margin ratio and price limit range. 
+
+　　3. After trading on June 3, 2025 ( Tuesday), starting from the closing settlement of the first trading day without a one-sided market, the price limit range and trading margin ratio will be adjusted as follows: 
+
+　　The price limits and trading margin ratios of gold futures contracts will be restored to their original levels; 
+
+　　The price limit of alumina futures contracts remains at 9% , the margin ratio for hedging transactions remains at 10% , and the margin ratio for speculative transactions remains at 11% ; 
+
+　　The price limit range of silver futures contracts remains at 12% , the hedging margin ratio remains at 13% , and the speculative margin ratio remains at 14% . 
+
+　　Other matters regarding the price limit range and trading margin ratio shall be implemented in accordance with the "Shanghai Futures Exchange Risk Control Management Measures". 
+
+　　All relevant units are requested to do a good job in risk prevention to ensure a stable market and smooth delivery. 
+
+　　Please be notified. )
+
+
+
+effective date    (Starting from the closing settlement on May 29, 2025 ( Thursday), the trading margin ratio and price limit range will be adjusted as follows:) thies will gives us the fires effective date - try looking out for(the trading margin ratio and price limit range will be adjusted as follows) this statemennt ussually holds the date in the sentence followed by the updated commodities for this case we have   (May 29, 2025)   so the value should be in thiss formart (YYYY-MM-DD) 
+
+
+the values for this effecrive date will be  commodity=(alumina)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+
+
+						commodity=(silver)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+						commodity=(gold)  Hedging_Percentage =(14)  Speculative_Percentage=(15)
+the valuse for the next effective date which is ( After trading on June 3, 2025 ( Tuesday), starting from the closing settlement of the first trading day without a one-sided market, the price limit range and trading margin ratio will be adjusted as follows: ) you can see the similarity in the text for finding date which is whith the wording (trading margin ratio will be adjusted as follows: ) so lets use this to find dates  
+
+for the second date it will be  (June 3, 2025)   as for the values of the second date 
+						commodity=(alumina)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(silver)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+for gold based on this statement (The price limits and trading margin ratios of gold futures contracts will be restored to their original levels; )  the values will be from the previous release date /    which frow our results is  (2025-04-25)   (Notice on Work Arrangements during Labor Day 2025
+Release Date: 2025-04-25
+ Print
+ Previous issue 〔2025〕No. 116
+　　
+All relevant units: 
+
+　　According to the "Shanghai Futures Exchange Announcement on the 2025 Market Holiday Arrangements" (Shanghai Futures Exchange Announcement [ 2024 ] No. 204 ), the relevant work arrangements during the Labor Day are as follows: 
+
+　　1. There will be no night trading on the evening of April 30 , 2025 ( Wednesday). 
+
+　　Closed from May 1, 2025 ( Thursday) to May 5 , 2025 (Monday) . 
+
+　　On May 6, 2025 ( Tuesday), all futures and options contracts will be subject to call auction from 08:55 to 09:00 , and night trading will resume that evening. 
+
+　　2. Starting from the closing settlement on April 29, 2025 ( Tuesday), the trading margin ratio and price limit range will be adjusted as follows: 
+
+　　The price limits for rebar, hot-rolled coil and stainless steel futures contracts are adjusted to 8% , the margin ratio for hedging transactions is adjusted to 9% , and the margin ratio for speculative transactions is adjusted to 10% ; 
+
+　　The price limits for aluminum, zinc, lead, alumina, wire rod and pulp futures contracts were adjusted to 9% , the margin ratio for hedging transactions was adjusted to 10% , and the margin ratio for speculative transactions was adjusted to 11% ; 
+
+　　The price limit of copper futures contracts is adjusted to 10% , the margin ratio for hedging transactions is adjusted to 11% , and the margin ratio for speculative transactions is adjusted to 12% ; 
+
+　　The price limit of natural rubber futures contracts was adjusted to 11% , the margin ratio for hedging transactions was adjusted to 12% , and the margin ratio for speculative transactions was adjusted to 13% ; 
+
+　　The price limits for fuel oil, petroleum asphalt, butadiene rubber, nickel and tin futures contracts were adjusted to 12% , the margin ratio for hedging transactions was adjusted to 13% , and the margin ratio for speculative transactions was adjusted to 14% ; 
+
+　　The price limit of silver futures contracts is adjusted to 13% , the margin ratio for hedging transactions is adjusted to 14% , and the margin ratio for speculative transactions is adjusted to 15% ; 
+
+　　The price limit range of gold futures contracts was adjusted to 14% , the margin ratio for hedging transactions was adjusted to 15% , and the margin ratio for speculative transactions was adjusted to 16% . 
+
+　　If the circumstances specified in Article 12 of the Shanghai Futures Exchange Risk Control Management Measures occur, adjustments will be made based on the above-mentioned trading margin ratio and price limit range. 
+
+　　3. After trading on May 6, 2025 ( Tuesday), starting from the closing settlement of the first trading day without a one-sided market, the price limit range and trading margin ratio will be adjusted as follows: 
+
+　　The price limit range of gold futures contracts was adjusted to 12% , the margin ratio for hedging transactions was adjusted to 13% , and the margin ratio for speculative transactions was adjusted to 14% . 
+
+　　The price limit ranges and trading margin ratios of other futures contracts have been restored to their original levels. 
+
+　　Other matters regarding the price limit range and trading margin ratio shall be implemented in accordance with the "Shanghai Futures Exchange Risk Control Management Measures". 
+
+　　All relevant units are requested to do a good job in risk prevention to ensure a stable market and smooth delivery. 
+
+　　Please be notified. 
+
+ )
+
+
+
+
+the laslvalu of goled was(　3. After trading on May 6, 2025 ( Tuesday), starting from the closing settlement of the first trading day without a one-sided market, the price limit range and trading margin ratio will be adjusted as follows: 
+
+　　The price limit range of gold futures contracts was adjusted to 12% , the margin ratio for hedging transactions was adjusted to 13% , and the margin ratio for speculative transactions was adjusted to 14% . 
+
+)
+
+						commodity=(gold)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+
+the will be our final valu of gold for release date (2025-05-27) effective date (June 3, 2025)  
+
+
+  but lets iron out the values for this release date (2025-04-25)
+
+
+ the fires effective date will be (Starting from the closing settlement on April 29, 2025 ( Tuesday), the trading margin ratio and price limit range will be adjusted as follows:)  = (April 29, 2025) and its values will be (from this (2. Starting from the closing settlement on April 29, 2025 ( Tuesday), the trading margin ratio and price limit range will be adjusted as follows: 
+
+　　The price limits for rebar, hot-rolled coil and stainless steel futures contracts are adjusted to 8% , the margin ratio for hedging transactions is adjusted to 9% , and the margin ratio for speculative transactions is adjusted to 10% ; ) we have 3 commodities from the fiers statement(rebar, hot-rolled coil and stainless steel )  )
+
+
+						commodity=(rebar)  Hedging_Percentage =(9)  Speculative_Percentage=(10)
+						commodity=(hot-rolled coil)  Hedging_Percentage =(9)  Speculative_Percentage=(10)
+						commodity=(stainless steel)  Hedging_Percentage =(9)  Speculative_Percentage=(10)
+
+from the nex stament same effective date  we have (The price limits for aluminum, zinc, lead, alumina, wire rod and pulp futures contracts were adjusted to 9% , the margin ratio for hedging transactions was adjusted to 10% , and the margin ratio for speculative transactions was adjusted to 11% ; )
+
+						commodity=(aluminum)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(zinc)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(lead)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(alumina)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(wire rod)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(pulp)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+
+next statement (The price limit of copper futures contracts is adjusted to 10% , the margin ratio for hedging transactions is adjusted to 11% , and the margin ratio for speculative transactions is adjusted to 12% ; )
+						commodity=(copper)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+
+next statement (The price limit of natural rubber futures contracts was adjusted to 11% , the margin ratio for hedging transactions was adjusted to 12% , and the margin ratio for speculative transactions was adjusted to 13% ;)
+						commodity=(natural rubber)  Hedging_Percentage =(12)  Speculative_Percentage=(13)
+nest statement (The price limits for fuel oil, petroleum asphalt, butadiene rubber, nickel and tin futures contracts were adjusted to 12% , the margin ratio for hedging transactions was adjusted to 13% , and the margin ratio for speculative transactions was adjusted to 14% ; )
+						commodity=(fuel oil)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+						commodity=(petroleum asphalt)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+						commodity=(butadiene rubber)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+						commodity=(nickel)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+						commodity=(tin)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+
+next statement(The price limit of silver futures contracts is adjusted to 13% , the margin ratio for hedging transactions is adjusted to 14% , and the margin ratio for speculative transactions is adjusted to 15% ; )
+						commodity=(silver)  Hedging_Percentage =(14)  Speculative_Percentage=(15)
+
+next statement (The price limit range of gold futures contracts was adjusted to 14% , the margin ratio for hedging transactions was adjusted to 15% , and the margin ratio for speculative transactions was adjusted to 16% .) 
+						commodity=(silver)  Hedging_Percentage =(15)  Speculative_Percentage=(16)
+from here  we move to the next  effective date (3. After trading on May 6, 2025 ( Tuesday), starting from the closing settlement of the first trading day without a one-sided market, the price limit range and trading margin ratio will be adjusted as follows:)  which is (May 6, 2025)
+
+here we have (The price limit range of gold futures contracts was adjusted to 12% , the margin ratio for hedging transactions was adjusted to 13% , and the margin ratio for speculative transactions was adjusted to 14% . )
+						commodity=(gold)  Hedging_Percentage =(13)  Speculative_Percentage=(14)
+
+the next statement (The price limit ranges and trading margin ratios of other futures contracts have been restored to their original levels. )
+
+ as we did before we have to back date to the previous release date thich for this case is (2025-04-09) based on what we scraped 
+
+
+ here is a sample  (Notice on Adjusting the Margin Ratio and Price Limits of Fuel Oil and Other Futures Trading
+Release Date: 2025-04-09
+ Print
+ Previous issue 〔2025〕No. 95　　 
+　　
+
+All relevant units: 
+
+　　After research and decision, from the closing settlement on April 10, 2025 ( Thursday), the trading margin ratio and price limit range will be adjusted as follows: 
+
+　　The price limits for fuel oil and petroleum asphalt futures contracts were adjusted to 9% , the margin ratio for hedging transactions was adjusted to 10% , and the margin ratio for speculative transactions was adjusted to 11% . 
+
+　　The price limit range of natural rubber futures contracts was adjusted to 8% , the margin ratio for hedging transactions was adjusted to 9% , and the margin ratio for speculative transactions was adjusted to 10% . 
+
+　　The price limit range of gold and silver futures contracts was adjusted to 11% , the margin ratio for hedging transactions was adjusted to 12% , and the margin ratio for speculative transactions was adjusted to 13% . 
+
+　　If the circumstances specified in Article 12 of the Shanghai Futures Exchange Risk Control Management Measures occur, adjustments will be made based on the above-mentioned trading margin ratio and price limit range. 
+
+　　Other matters concerning trading margin and price limits shall be implemented in accordance with the "Shanghai Futures Exchange Risk Control Management Measures". 
+
+　　Please be notified. 
+
+ 
+
+　　Appendix: List of price limits and trading margin ratio adjustments for related products 
+
+ 
+
+　　Shanghai Futures Exchange
+
+April 9 , 2025)
+
+
+form here ad the nex we will pick the values we need for those futures based on the previous statement in the last release date(The price limit ranges and trading margin ratios of other futures contracts have been restored to their original levels. ) for that effective date  and onwards 
+
+
+moving on for this release date (Release Date: 2025-04-09)
+we have our first effective date as (After research and decision, from the closing settlement on April 10, 2025 ( Thursday), the trading margin ratio and price limit range will be adjusted as follows: ) =(April 10, 2025)
+its values will be like this(The price limits for fuel oil and petroleum asphalt futures contracts were adjusted to 9% , the margin ratio for hedging transactions was adjusted to 10% , and the margin ratio for speculative transactions was adjusted to 11% .  )
+						commodity=(fuel oil)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+						commodity=(petroleum asphalt)  Hedging_Percentage =(10)  Speculative_Percentage=(11)
+the next statement will be (The price limit range of natural rubber futures contracts was adjusted to 8% , the margin ratio for hedging transactions was adjusted to 9% , and the margin ratio for speculative transactions was adjusted to 10% . )
+
+						commodity=(natural rubber)  Hedging_Percentage =(9)  Speculative_Percentage=(10)
+the next statement will be (The price limit range of gold and silver futures contracts was adjusted to 11% , the margin ratio for hedging transactions was adjusted to 12% , and the margin ratio for speculative transactions was adjusted to 13% .)
+						commodity=(gold)  Hedging_Percentage =(12)  Speculative_Percentage=(13)
+						commodity=(silver)  Hedging_Percentage =(12)  Speculative_Percentage=(13)
+
+ 
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   

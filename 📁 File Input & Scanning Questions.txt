@@ -1,0 +1,109 @@
+📁 File Input & Scanning Questions
+1. File Format Support
+You mentioned "any file format" - which specific formats do you need to handle?
+
+Documents: PDF, DOCX, DOC, TXT, MD?   yes
+Spreadsheets: XLSX, XLS, CSV?  yes
+Images: PNG, JPG (OCR for scanned runbooks)? yes and the runbooks also containe screenshots of the sites
+Archives: ZIP, RAR (containing runbooks)? yes
+Web formats: HTML, XML?  yes
+
+2. Multiple File Handling
+
+Should it process one runbook at a time or multiple files as a single runbook? usually you might get a runbook with anaditionall document with int=structions
+If multiple files: Are they supplementary (like your SHFE main doc + appendix) or separate runbooks?lets say they are  supplementary
+How should it handle conflicting information between files? indicate but since we are using an LLm model for this analysis i think it should be intelligent enough to understand the right information
+
+3. File Relationship Logic
+Looking at your SHFE example with main runbook + appendix:
+
+How should it detect related files? (naming patterns, timestamps, content similarity?)
+Should it prioritize certain file types over others? no consider them as supplementary informartion
+What if there are multiple versions of the same runbook?you can ignore one if they have similar content inside always confirm first
+
+🎯 URL Extraction & Site Target Questions
+4. URL Identification Patterns
+From your SHFE example: https://www.shfe.com.cn/publicnotice/notice/
+
+Should it extract all URLs found or identify the primary target site? the context of the run book will tell you what url to start with since its always at the top   am way to navigate the site  usually called link to source  you can also refer to the BOACTAR_Runbook  runbook
+How should it handle multiple URLs in one runbook? use the source link
+Should it recognize URL patterns like login pages, API endpoints, etc.? yes if need be
+
+5. Site Context Understanding
+
+Should it classify site types (exchange, government, e-commerce, news)?not necessarily if it will be helpfull then ok  but note that the runbook is information on hwhat to doo when you get to the site and what you need to extract
+Does it need to identify authentication requirements from the runbook? yes if available understand the full notebook
+Should it detect regional/language requirements (like Chinese sites)? yess this is verry possible in some instancess
+
+📋 Runbook Structure Analysis Questions
+6. Content Prioritization
+Different runbooks might have different structures:
+
+How should it handle unstructured vs structured documents?
+Should it prioritize specific sections (like "Instructions", "Requirements")?
+What about embedded tables, images, or diagrams?
+
+7. Business Context Detection
+
+Should it auto-classify domains (financial, e-commerce, government) or expect explicit domain info?
+How important is regulatory/compliance context detection?
+Should it identify data sensitivity levels (public, confidential, financial)?
+
+🔍 Analysis Depth Questions
+8. Requirement Extraction Scope
+From your SHFE example, it needs to extract:
+
+Data targets: What to scrape
+Business rules: Validation/filtering logic
+Output format: How to deliver
+Quality standards: Success criteria
+
+Should it also extract:
+
+Timing requirements (frequency, deadlines)?
+Error handling preferences?
+Scalability requirements?
+Security/compliance needs?
+
+9. Implicit vs Explicit Requirements
+
+How deep should the inference go? (e.g., "margin ratio" → "financial criticality")
+Should it cross-reference with domain knowledge databases?
+How should it handle ambiguous or contradictory instructions?
+
+🚀 Output Preparation for Site Intelligence
+10. Site Intelligence Handoff
+What should the Runbook Intelligence Engine prepare for the Site Intelligence Engine?
+
+Structured requirements object?
+Site analysis parameters?
+Expected data patterns?
+Business context and constraints?
+
+11. Analysis Confidence Scoring
+
+Should it provide confidence levels for extracted requirements?
+How should it handle uncertain or unclear runbook sections?
+Should it flag missing information that might be needed?
+
+💡 Processing Pipeline Questions
+12. File Processing Order
+If multiple files are present:
+
+Sequential processing or parallel analysis?
+Should larger/newer files get priority?
+How should it merge insights from multiple sources?
+
+13. Error Handling Strategy
+
+What if a file is corrupted or unreadable?
+Should it skip and continue or halt and flag?
+How should it handle partially readable files?
+
+🎯 Specific SHFE Example Questions
+Looking at your SHFE runbook:
+
+The main document has instructions, the appendix has example tables
+Should it recognize this pattern and handle main+supplementary docs automatically?
+How should it extract Chinese content handling requirements?
+Should it identify Bloomberg code requirements as a specific financial domain pattern?
